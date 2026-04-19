@@ -1,6 +1,6 @@
 # Verhaal
 
-In de Pokémon games begin je als een beginnende trainer.  
+In de Pokémon games begin je als een nieuwe trainer.
 Je krijgt je eerste Pokémon van een professor.
 
 Daarna reis je door een regio en vecht je tegen andere trainers.  
